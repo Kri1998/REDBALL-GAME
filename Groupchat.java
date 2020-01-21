@@ -1,4 +1,6 @@
 
+//server side programming
+
 package prac_mul_tcp_s;
 
 import java.io.BufferedReader;
